@@ -1,0 +1,22 @@
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.AssemblyReference.cache
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\SqlConnectionLior.Form1.resources
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.Properties.Resources.resources
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.GenerateResource.cache
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.CoreCompileInputs.cache
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\bin\Debug\LiorConnectionSQL.exe.config
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\bin\Debug\LiorConnectionSQL.exe
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\bin\Debug\LiorConnectionSQL.pdb
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.exe
+C:\Users\origi\source\repos\LiorConnectionSQL\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.pdb
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\bin\Debug\LiorConnectionSQL.exe.config
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\bin\Debug\LiorConnectionSQL.exe
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\bin\Debug\LiorConnectionSQL.pdb
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\SqlConnectionLior.Form1.resources
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.Properties.Resources.resources
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.exe
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\LiorConnectionSQL\obj\Debug\LiorConnectionSQL.pdb
